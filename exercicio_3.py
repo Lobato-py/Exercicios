@@ -42,7 +42,6 @@ for pergunta in perguntas:
             if opcoes[escolha_int] == pergunta['Resposta']:
                 acertou = True
 
-    ()
     if acertou:
         qtd_acertos += 1
         print('Acertou 👍')
